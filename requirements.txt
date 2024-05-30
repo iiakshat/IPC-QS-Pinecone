@@ -3,6 +3,9 @@ tiktoken
 pinecone-client
 pypdf
 langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
 pandas
 numpy
 python-dotenv
