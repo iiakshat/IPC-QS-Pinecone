@@ -27,7 +27,7 @@ The IPC Query System is developed to facilitate easy access to legal information
 ## Technologies Used
 
 - Python
-- Pinecone vectorDB
+- Pinecone VectorDB
 - Hugging Face APIs
 - Embeddings: E5 (Small)
 
