@@ -1,4 +1,4 @@
-# Indian Panel Code (IPC) Query System Implementation Using [Pinecone](https://docs.pinecone.io/home) 🍍
+# Indian Penal Code (IPC) Query System Implementation Using [Pinecone](https://docs.pinecone.io/home) 🍍
 
 This poject leverages the power of Pinecone, a vector database, to efficiently retrieve information related to the Indian Penal Code (IPC) sections.
 
