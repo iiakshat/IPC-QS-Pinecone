@@ -1,6 +1,6 @@
 # Indian Penal Code (IPC) Query System Implementation Using [Pinecone](https://docs.pinecone.io/home) 🍍
 
-This poject leverages the power of Pinecone, a vector database, to efficiently retrieve information related to the Indian Penal Code (IPC) sections.
+This poject leverages the power of Pinecone, a vector database, to efficiently retrieve information related to the Indian Penal Code (IPC) sections mentioned in [IPC 1860](https://www.iitk.ac.in/wc/data/IPC_186045.pdf).
 
 ## Table of Contents
 
