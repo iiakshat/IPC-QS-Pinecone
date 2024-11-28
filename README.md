@@ -25,7 +25,6 @@ The IPC Query System is developed to facilitate easy access to legal information
 - Fast search capabilities using Pinecone's vector database
 
 ## Technologies Used
-
 - Python
 - Pinecone VectorDB
 - Hugging Face APIs
@@ -82,7 +81,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any queries or suggestions, please contact:
 
 - Name: Akshat Sanghvi
-- Email: jakshat569@gmail.com
 - GitHub: [iiakshat](https://github.com/iiakshat/)
 - LinkedIn: [Akshat Sanghvi](https://www.linkedin.com/in/akshat-sanghvi/)
 
